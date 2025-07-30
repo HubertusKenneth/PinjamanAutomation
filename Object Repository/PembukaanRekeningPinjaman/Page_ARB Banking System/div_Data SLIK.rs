@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data SLIK</name>
+   <tag></tag>
+   <elementGuidId>7e4fea27-bd26-440b-b809-a2de805bc1fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:h']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabLNMA0001 div >> internal:has-text=/^Data SLIK$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>476a2f44-c4b2-44a2-8684-9d2ca7f7190c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ButtonViews-IBWRAP:b:h</value>
+      <webElementGuid>3a02e14d-d1de-41d7-9f1a-5b1545ba32ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-buttonviews-ibwrap     xui-custom</value>
+      <webElementGuid>25adf911-d8e7-48c6-82fa-a3b320ed8990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data SLIK</value>
+      <webElementGuid>943d8ac2-dfb9-4672-9ce3-2b6024976cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ButtonViews-IBWRAP:b:h&quot;)</value>
+      <webElementGuid>daddefae-a808-4fb7-bdbb-26bad34cc57f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:h']</value>
+      <webElementGuid>f0636c49-c41f-4192-aa8d-1d4040bb353d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ButtonViews-HANDLE:b:h']/div</value>
+      <webElementGuid>00cb67ee-8611-4e00-838d-9ae8c9b66a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Lapbul Apolo'])[2]/following::div[1]</value>
+      <webElementGuid>145e9e54-0712-4dd9-a58c-c4c0f124bb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Amortisasi EIR'])[1]/following::div[2]</value>
+      <webElementGuid>8eb56a3d-ccd5-4613-b47f-ff1960f6dc82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Non Finansial'])[1]/preceding::div[1]</value>
+      <webElementGuid>f0219583-036f-4906-90c3-503766cc9f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[8]/span/span/span/div</value>
+      <webElementGuid>928b5bfb-baf5-416a-9431-073883dc87c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.ButtonViews-IBWRAP:b:h' and (text() = 'Data SLIK' or . = 'Data SLIK')]</value>
+      <webElementGuid>e53fe325-8ba6-4437-8a24-6ce4a46d6bf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_D - DISKONTO</name>
+   <tag></tag>
+   <elementGuidId>acaba031-5f4f-408c-8351-3896af2bbaca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:e:b']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;D - DISKONTO&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd5b36c7-199b-4147-85fa-7e2c695bb5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.List-CAPTION:e:b</value>
+      <webElementGuid>a24f0f5f-a0a6-4239-8c71-705696ef147b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-list-caption     xui-custom</value>
+      <webElementGuid>1b17cf40-1007-4aa7-b611-4a001c4e26c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>D - DISKONTO</value>
+      <webElementGuid>e6183a41-ca5d-4e9d-9400-6f2214d0f17c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:e:b&quot;)</value>
+      <webElementGuid>ddcdb427-109c-493c-8e8a-4756682486bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:e:b']</value>
+      <webElementGuid>89d88efe-6fb3-4eb5-bb28-de741fa3c172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-ITEM:e:b']/span[4]</value>
+      <webElementGuid>89c41c0c-6631-4d48-8478-23cb8c99f281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A - ANUITAS'])[6]/following::span[8]</value>
+      <webElementGuid>3330f37a-55b3-489f-b36f-4f5f4bdd509e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Favorite'])[1]/following::span[16]</value>
+      <webElementGuid>dd244dca-09e4-44c7-be66-38aad035cca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M - MENURUN'])[6]/preceding::span[7]</value>
+      <webElementGuid>934d0069-14fc-40e2-81b3-015b5202801b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P - PRK'])[1]/preceding::span[15]</value>
+      <webElementGuid>c61b6c55-c11c-4c27-9e6f-599d371dc343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span[2]/span[4]</value>
+      <webElementGuid>be0b9699-4705-4b04-9e96-4a9227390b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.List-CAPTION:e:b' and (text() = 'D - DISKONTO' or . = 'D - DISKONTO')]</value>
+      <webElementGuid>f7788874-0969-4a6f-867e-365e8ae3d815</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

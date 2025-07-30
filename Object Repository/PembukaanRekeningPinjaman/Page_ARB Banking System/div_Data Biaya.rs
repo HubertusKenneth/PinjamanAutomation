@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Biaya</name>
+   <tag></tag>
+   <elementGuidId>abaea676-4f58-44c9-98cd-d09df6299ad5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:e']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabLNMA0001 div >> internal:has-text=/^Data Biaya$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f43562dd-6b70-410e-bf1b-3f73eecc9315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ButtonViews-IBWRAP:b:e</value>
+      <webElementGuid>1f085d62-4fd0-4a3c-8f31-c55637043f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-buttonviews-ibwrap     xui-custom</value>
+      <webElementGuid>cbd4f752-7bfa-4c45-a186-5b1b28e7b824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Biaya</value>
+      <webElementGuid>7e44df93-bf85-4929-af2f-335ccd76e2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ButtonViews-IBWRAP:b:e&quot;)</value>
+      <webElementGuid>f98006c2-d800-4755-a417-f175c54febde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:e']</value>
+      <webElementGuid>252b4332-331d-40a3-b1b0-e211383ba57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ButtonViews-HANDLE:b:e']/div</value>
+      <webElementGuid>76e931e7-5c9d-431e-a396-b44f4f15255d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Jadwal Angsuran'])[2]/following::div[1]</value>
+      <webElementGuid>ee537bc0-7e2f-4c75-9564-a475a334c2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Grace Period'])[1]/following::div[2]</value>
+      <webElementGuid>79b9734e-d3d9-49fa-9eca-a7877d6397e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Amortisasi EIR'])[1]/preceding::div[1]</value>
+      <webElementGuid>a266ae91-061e-465e-957e-7bbe133907ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/span/span/span/div</value>
+      <webElementGuid>12c2b51d-94d7-4993-a50d-e468220ec6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.ButtonViews-IBWRAP:b:e' and (text() = 'Data Biaya' or . = 'Data Biaya')]</value>
+      <webElementGuid>d6539cf0-9d44-4e54-8df5-9f0aa1029c55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

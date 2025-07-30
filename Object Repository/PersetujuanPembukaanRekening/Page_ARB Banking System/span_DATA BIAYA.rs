@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DATA BIAYA</name>
+   <tag></tag>
+   <elementGuidId>ee66f2b7-fb68-4004-add9-79ae5fcc1f48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Panel-CAPTION:g:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DATA BIAYA *&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aeb4e7f9-1ed3-4aec-a87f-816928a4f17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>26fde008-36de-4eaa-8853-7b15dec5d7c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Panel-CAPTION:g:</value>
+      <webElementGuid>838521ea-423c-4a38-bbe2-c33e6383f44b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-panel-caption xui-title-node     xui-custom</value>
+      <webElementGuid>801e755d-ad4a-4c5c-ae29-25238365d097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA BIAYA *</value>
+      <webElementGuid>57f2fe49-2126-4b33-8161-25ad8fef71f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Panel-CAPTION:g:&quot;)</value>
+      <webElementGuid>aa82c0e9-c6b8-4f7f-96a8-a2e33fe1453c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Panel-CAPTION:g:']</value>
+      <webElementGuid>0f116aac-4298-4e1d-bc3e-80d17c643efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Panel-BARCMDL:g:']/span[4]</value>
+      <webElementGuid>5c39a142-6bf4-4326-9066-84612558f011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes simpan'])[2]/following::span[17]</value>
+      <webElementGuid>19bcbfed-c940-4ccf-a81a-c62b16a7c7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selisih Plafond - Total Angsuran Pokok'])[1]/following::span[31]</value>
+      <webElementGuid>e76e5614-2d87-4512-958d-8c5299968e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA AMORTISASI EIR *'])[1]/preceding::span[22]</value>
+      <webElementGuid>0bc3b19d-d2ec-4337-9589-52d991096da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA LAPBUL APOLO *'])[1]/preceding::span[44]</value>
+      <webElementGuid>ac6921d9-7fa6-446f-9207-f3faa4389cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATA BIAYA *']/parent::*</value>
+      <webElementGuid>4bd67a1d-1868-4364-a723-4931b333687e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/div[5]/div/div/div/span[4]</value>
+      <webElementGuid>e5004f6f-6c3e-4b0b-9558-971f305f5721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Panel-CAPTION:g:' and (text() = 'DATA BIAYA *' or . = 'DATA BIAYA *')]</value>
+      <webElementGuid>71ee651b-bbc7-4980-8456-679068b1dd7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

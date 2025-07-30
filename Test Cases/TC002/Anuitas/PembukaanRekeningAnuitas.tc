@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembukaanRekeningAnuitas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6cdf233-767a-4c4b-8b10-49c81c58bdd9</testCaseGuid>
+</TestCaseEntity>

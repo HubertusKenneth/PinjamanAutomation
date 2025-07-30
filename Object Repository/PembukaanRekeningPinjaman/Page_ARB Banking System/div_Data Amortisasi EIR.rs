@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Amortisasi EIR</name>
+   <tag></tag>
+   <elementGuidId>cb6053aa-b0d8-4e89-a7ae-d18084e9a2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:f']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabLNMA0001 div >> internal:has-text=/^Data Amortisasi EIR$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dae77849-eee6-45dd-8fcd-b78dde225af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ButtonViews-IBWRAP:b:f</value>
+      <webElementGuid>c5591311-c9b3-4e8b-beaa-92ea4bb54382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-buttonviews-ibwrap     xui-custom</value>
+      <webElementGuid>5faf87f0-2302-499b-b962-aac09b5761ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Amortisasi EIR</value>
+      <webElementGuid>078b1efe-6b19-49a9-8cb6-ead8624f35ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ButtonViews-IBWRAP:b:f&quot;)</value>
+      <webElementGuid>a20ea46a-6fd4-4333-971e-56b209e16c9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:f']</value>
+      <webElementGuid>fd8dd0e2-2655-4e9e-80f8-42ff5756884c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ButtonViews-HANDLE:b:f']/div</value>
+      <webElementGuid>972cf9f4-2068-4c68-97dc-f96111dc521d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Biaya'])[2]/following::div[1]</value>
+      <webElementGuid>dfb5de26-94ae-44d2-8f6f-416d57768683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Jadwal Angsuran'])[1]/following::div[2]</value>
+      <webElementGuid>2c887045-e757-4157-a5a9-b05d8b8bda39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Lapbul Apolo'])[1]/preceding::div[1]</value>
+      <webElementGuid>4fef46a5-4afc-452d-b240-17974117f788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[6]/span/span/span/div</value>
+      <webElementGuid>ec3baa06-9ad6-420e-8e28-bbc2af04e774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.ButtonViews-IBWRAP:b:f' and (text() = 'Data Amortisasi EIR' or . = 'Data Amortisasi EIR')]</value>
+      <webElementGuid>1b1251ad-90fa-4331-aa21-1a0e2ea656b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

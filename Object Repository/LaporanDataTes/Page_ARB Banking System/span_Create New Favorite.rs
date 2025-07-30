@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create New Favorite</name>
+   <tag></tag>
+   <elementGuidId>78ba660b-60bb-4b9e-b46d-c59f8beb4f5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.PopMenu-CAPTION:g:a']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Create New Favorite&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e392309-244d-4d45-a765-4fc0b1d9bd5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.PopMenu-CAPTION:g:a</value>
+      <webElementGuid>96e60a37-acf9-4c56-a088-b1156ff02fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-popmenu-caption     xui-custom</value>
+      <webElementGuid>39305d5d-4e9d-44cf-a9e7-2686d4b41651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Favorite</value>
+      <webElementGuid>b805ed42-cbb8-40b6-88c0-59ed5c231a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.PopMenu-CAPTION:g:a&quot;)</value>
+      <webElementGuid>d7cb6e8c-2604-4127-b4bb-03bcbcb483bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.PopMenu-CAPTION:g:a']</value>
+      <webElementGuid>72830776-7ccf-4c78-842f-4c1fc2a042d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.PopMenu-ITEM:g:a']/span[3]</value>
+      <webElementGuid>c4d99474-70cb-4d98-ba13-80f82ae4f2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From: USER'])[1]/following::span[10]</value>
+      <webElementGuid>c6996d45-3417-49af-8833-20f68c5041cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create New Favorite']/parent::*</value>
+      <webElementGuid>ebc887a1-7fd4-4b3f-9ccf-e49580558f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[17]/span/span/div/div/span/span[3]</value>
+      <webElementGuid>c69050f9-7ea0-4d45-9946-f4dfcc2e22f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.PopMenu-CAPTION:g:a' and (text() = 'Create New Favorite' or . = 'Create New Favorite')]</value>
+      <webElementGuid>55070a8d-6170-45f2-a826-c08a1b10d6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

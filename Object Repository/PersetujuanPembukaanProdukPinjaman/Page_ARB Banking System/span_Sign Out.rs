@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>943083df-4d1d-4d10-bc18-3e96937f6221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Button-CAPTION:a:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign Out&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>203751ec-153c-40ea-9013-3ad2e3cad786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Button-CAPTION:a:</value>
+      <webElementGuid>9d964e7b-c9fd-444c-837f-d51ba7118555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-button-caption     xui-custom</value>
+      <webElementGuid>08de5680-9c9e-467e-afa7-f70df09eed3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>76c7f678-7f40-42f4-9e35-81dbdd7d6aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Button-CAPTION:a:&quot;)</value>
+      <webElementGuid>aa8a16fe-5328-4711-a001-5e0020505501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Button-CAPTION:a:']</value>
+      <webElementGuid>00abcc10-f282-4615-a5a9-2046b01f7e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='xui.UI.Button:a:']/span[2]</value>
+      <webElementGuid>f0247635-8fe8-4075-873c-87e767f15389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP : 192.168.10.43'])[1]/following::span[7]</value>
+      <webElementGuid>fed29e3b-6b2f-4f7d-ab9d-ae07e37bec9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUBERTUS2 - 370'])[1]/following::span[7]</value>
+      <webElementGuid>07d89c88-00cf-42ab-8bf4-44608a811155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Preferences'])[1]/preceding::span[3]</value>
+      <webElementGuid>cd50bba3-075f-4c40-ae27-bf90772e0a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Spooler'])[1]/preceding::span[6]</value>
+      <webElementGuid>5187299c-d2bf-4d15-9b01-ad034b7060f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>54d64803-fcd9-45e8-8ec0-1b0616880f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/div[2]/button/span[2]</value>
+      <webElementGuid>d7adc43a-e363-437f-b0c5-966d8915b821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Button-CAPTION:a:' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>9c6e31a1-2af0-4bac-ae39-b4cafc131c70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

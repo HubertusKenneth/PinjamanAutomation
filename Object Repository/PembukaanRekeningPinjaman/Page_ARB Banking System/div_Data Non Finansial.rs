@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Non Finansial</name>
+   <tag></tag>
+   <elementGuidId>6321d945-de6f-4d30-bce0-df99310f02b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:i']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabLNMA0001 div >> internal:has-text=/^Data Non Finansial$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f21f9c49-0a3a-4160-ae99-656bfb83d056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ButtonViews-IBWRAP:b:i</value>
+      <webElementGuid>dc44c4f9-24aa-4fa0-b5b5-f5d487115b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-buttonviews-ibwrap     xui-custom</value>
+      <webElementGuid>eb6c3b99-e76d-48b0-b9ad-3c0f60d29606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Non Finansial</value>
+      <webElementGuid>4e652214-1041-463b-83e1-11f31ad80c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ButtonViews-IBWRAP:b:i&quot;)</value>
+      <webElementGuid>b9b21c03-f1d3-4d45-9ff4-a5f330b960db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:i']</value>
+      <webElementGuid>8828f2a6-8187-4dfe-9374-8c216b856fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ButtonViews-HANDLE:b:i']/div</value>
+      <webElementGuid>c4e24f23-89d0-4438-8e40-b952c760957a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data SLIK'])[2]/following::div[1]</value>
+      <webElementGuid>7767b796-e6d1-48de-b045-4deb92009828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Lapbul Apolo'])[1]/following::div[2]</value>
+      <webElementGuid>ccf5a8dc-e83e-48fc-b4ca-63ae7bad57b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMBUKAAN REKENING PINJAMAN'])[2]/preceding::div[1]</value>
+      <webElementGuid>3f1c9ae0-8a91-4696-9045-d55c4f2b1a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[9]/span/span/span/div</value>
+      <webElementGuid>a1ccb575-78d3-4cb6-8e70-09a2d599af10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.ButtonViews-IBWRAP:b:i' and (text() = 'Data Non Finansial' or . = 'Data Non Finansial')]</value>
+      <webElementGuid>28fc14aa-cf46-4167-94a1-bbaf38a154fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

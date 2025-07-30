@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Rekening</name>
+   <tag></tag>
+   <elementGuidId>bbdedf00-9030-4919-b188-70e69690b18d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:b']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabLNMA0001 div >> internal:has-text=/^Data Rekening$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a158e01e-a11f-421b-94a4-acdf243e7747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ButtonViews-IBWRAP:b:b</value>
+      <webElementGuid>14c1e4a8-9f90-4eac-b544-0dd2d65d0736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-buttonviews-ibwrap     xui-custom</value>
+      <webElementGuid>f62396f3-bffb-4b71-9f60-69aed23fdc42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Rekening</value>
+      <webElementGuid>31269527-84ba-452e-85a7-b63312443823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ButtonViews-IBWRAP:b:b&quot;)</value>
+      <webElementGuid>636a7f7f-1cea-44a6-bc1f-e1f27755bd31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.ButtonViews-IBWRAP:b:b']</value>
+      <webElementGuid>7cbafa18-5979-4f4b-9bf1-2dea2efe19ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ButtonViews-HANDLE:b:b']/div</value>
+      <webElementGuid>fe023d4a-a152-4c23-b650-a0cffd361f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Nasabah'])[2]/following::div[1]</value>
+      <webElementGuid>570bbf82-033f-4e9d-a568-08ecce6a79c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Nasabah'])[1]/following::div[4]</value>
+      <webElementGuid>aeaef95c-8523-405d-b77d-6bbef0f6b9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Grace Period'])[1]/preceding::div[1]</value>
+      <webElementGuid>6ff6314a-5511-4c78-bde6-172101f79fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]/span/span/span/div</value>
+      <webElementGuid>b8d443cb-6acd-494b-8812-e12c2f311665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.ButtonViews-IBWRAP:b:b' and (text() = 'Data Rekening' or . = 'Data Rekening')]</value>
+      <webElementGuid>4973a9b3-edb0-4117-a3b3-4685564a3d64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

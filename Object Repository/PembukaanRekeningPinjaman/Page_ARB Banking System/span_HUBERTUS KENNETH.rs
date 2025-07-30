@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HUBERTUS KENNETH</name>
+   <tag></tag>
+   <elementGuidId>266f3de1-bf1d-407d-9bfb-8dd86dd81e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_c']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;HUBERTUS KENNETH&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c40dc234-ec37-4cbd-b01d-a2e09cab75d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.TreeGrid-CELLCAPTION:a:-c_c</value>
+      <webElementGuid>d9bb084c-258a-4d8a-bc8c-351dd938162b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-treegrid-cellcaption xui-v-node     xui-custom</value>
+      <webElementGuid>334d278f-606e-4c4c-8742-3b6bbe72f502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUBERTUS KENNETH</value>
+      <webElementGuid>fed60801-b8bb-4d9e-a94a-ee1dbd7a1dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.TreeGrid-CELLCAPTION:a:-c_c&quot;)</value>
+      <webElementGuid>2f2e7a59-6ea2-49e0-8a4e-cf8296abe024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_c']</value>
+      <webElementGuid>37817e26-bdf1-4ed5-93c2-0e02a9db3cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLA:a:-c_c']/span</value>
+      <webElementGuid>ef9494cb-a6a1-4387-8fab-33d2fe147f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gopublic'])[1]/following::span[92]</value>
+      <webElementGuid>6b443336-cd19-4e16-ab8a-c1addd666a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lembaga_id'])[1]/following::span[96]</value>
+      <webElementGuid>58b9372b-76b1-4ba2-ba10-94a837135ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HELSA'])[1]/preceding::span[7]</value>
+      <webElementGuid>0cbb8f6f-020d-4704-bd77-120eb157eac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JALAN'])[1]/preceding::span[10]</value>
+      <webElementGuid>af58c7a6-5def-4550-b6e5-837888519e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HUBERTUS KENNETH']/parent::*</value>
+      <webElementGuid>ff7f00cd-b908-4fb6-9da5-23f043546db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/div/span[3]/span/span</value>
+      <webElementGuid>18f6808a-a864-4ffb-996e-bea4607caf53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.TreeGrid-CELLCAPTION:a:-c_c' and (text() = 'HUBERTUS KENNETH' or . = 'HUBERTUS KENNETH')]</value>
+      <webElementGuid>355ca444-69cf-4444-a580-9c70231842e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

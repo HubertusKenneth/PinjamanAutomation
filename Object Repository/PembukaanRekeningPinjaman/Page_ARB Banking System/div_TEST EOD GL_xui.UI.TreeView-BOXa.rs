@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TEST EOD GL_xui.UI.TreeView-BOXa</name>
+   <tag></tag>
+   <elementGuidId>a35df87b-387c-4161-a437-bb487e7feed3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.TreeView-BOX:a:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dom_stkshortcut div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf52fac1-9e44-4939-b2e8-b3365b05e16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.TreeView-BOX:a:</value>
+      <webElementGuid>4cc0c57b-8ab0-4065-9960-1f9a2e961d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-treeview-box     xui-custom</value>
+      <webElementGuid>aee34571-2b94-4863-8f53-9a6199cf3a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.TreeView-BOX:a:&quot;)</value>
+      <webElementGuid>2b5e1e78-755a-4a64-9c90-9a1c44a6cf6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.TreeView-BOX:a:']</value>
+      <webElementGuid>96abf164-9bcf-4e93-abf9-80d9b399eace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.TreeView-BORDER:a:']/div</value>
+      <webElementGuid>1bb2ab66-e647-4227-b071-16d46920eeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST EOD GL'])[1]/following::div[5]</value>
+      <webElementGuid>86dba7de-9f72-4634-82d1-8da31531a8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESQUERY'])[1]/following::div[7]</value>
+      <webElementGuid>ffd75ffa-293a-42cb-988b-e4b6d70d0e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Font Size'])[1]/preceding::div[2]</value>
+      <webElementGuid>6c7cb5d6-d866-451d-954f-ace5572a7092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Themes'])[1]/preceding::div[9]</value>
+      <webElementGuid>cfa4f81c-3306-42fe-be8e-5fbb1f476e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div[2]/div/div/div[3]/div/div/div</value>
+      <webElementGuid>753419c2-ec60-4a11-b896-e28831275d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.TreeView-BOX:a:']</value>
+      <webElementGuid>913c3ccb-5d20-4331-bfb3-6d70367f699f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

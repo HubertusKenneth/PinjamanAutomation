@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DATA BIAYA</name>
+   <tag></tag>
+   <elementGuidId>1059a215-8ccd-4f0b-a90f-0ec1f895e315</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Panel-BARCMDL:g:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^DATA BIAYA \*$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3303742a-42bb-48b9-a737-1b6e18af3510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Panel-BARCMDL:g:</value>
+      <webElementGuid>4dd42fb7-bde2-473b-bf9c-b2fe2453628d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-panel-barcmdl xui-uibar-cmdl     xui-custom</value>
+      <webElementGuid>2405e7ef-d499-40e9-9b17-0a779d095ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA BIAYA *</value>
+      <webElementGuid>3f491bb8-c0d5-4a3e-b131-e5da4b5f7e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Panel-BARCMDL:g:&quot;)</value>
+      <webElementGuid>71a7c076-3e0c-403b-9e0f-a74e6746a4f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Panel-BARCMDL:g:']</value>
+      <webElementGuid>e07c9285-2d64-40b9-8753-687822cbe545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Panel-TBAR:g:']/div</value>
+      <webElementGuid>8460e79e-83d5-475d-8c2c-7fad7aaaff59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes simpan'])[2]/following::div[6]</value>
+      <webElementGuid>7dfe4d9e-5628-405f-b1d3-574ade2201ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selisih Plafond - Total Angsuran Pokok'])[1]/following::div[7]</value>
+      <webElementGuid>3c1c29b4-4401-4018-8ca4-71512fc4f73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA AMORTISASI EIR *'])[1]/preceding::div[7]</value>
+      <webElementGuid>93cd9cb0-1989-49ee-af3b-6325fdfdcdb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/div[5]/div/div/div</value>
+      <webElementGuid>2ec40cdd-c942-4dee-9bbe-e1e9ed83b6d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.Panel-BARCMDL:g:' and (text() = 'DATA BIAYA *' or . = 'DATA BIAYA *')]</value>
+      <webElementGuid>e9306baf-c9c8-40e5-95e5-0aa239b2a36d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

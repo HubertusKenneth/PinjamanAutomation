@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanProdukPinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4adb053b-14a6-41b3-a6f6-c40ae4e0ce00</testCaseGuid>
+</TestCaseEntity>

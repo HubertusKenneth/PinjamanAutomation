@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersetujuanProdukDiskonto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0159107-e35d-4827-b965-83859a3a3797</testCaseGuid>
+</TestCaseEntity>

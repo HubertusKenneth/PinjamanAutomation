@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembukaanProdukAnuitas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d82dbe8b-bd1b-46d9-b5e4-93390bc23b66</testCaseGuid>
+</TestCaseEntity>
