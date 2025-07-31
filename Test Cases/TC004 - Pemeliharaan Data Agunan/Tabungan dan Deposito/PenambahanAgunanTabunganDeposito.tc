@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenambahanAgunanTabunganDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fc42d10-8dc6-4c16-8ab5-5da8e838b09a</testCaseGuid>
+</TestCaseEntity>

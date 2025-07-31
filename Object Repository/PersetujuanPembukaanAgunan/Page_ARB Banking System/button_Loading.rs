@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Loading</name>
+   <tag></tag>
+   <elementGuidId>0b5b6985-f43c-45b1-a2c4-832ec27ca18d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Div:t:']/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.xui-node.xui-node-div.xuicon.xui-icon-loading.xui-cover.xui-custom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Loading...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa753585-0639-493f-b880-ef89f24b4462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xuicon xui-icon-loading xui-cover xui-custom</value>
+      <webElementGuid>c54511b9-a89f-4ca6-9c9e-81fd5b4dc3ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Loading...</value>
+      <webElementGuid>deadc507-d607-4520-ad17-e448f1851e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Div:t:&quot;)/button[@class=&quot;xui-node xui-node-div xuicon xui-icon-loading xui-cover xui-custom&quot;]</value>
+      <webElementGuid>10052568-6158-42e0-82d9-e4e99120f599</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Div:t:']/button</value>
+      <webElementGuid>77cfb9e4-b3ec-4e2a-8d8c-b7945f138c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komentar'])[1]/following::button[1]</value>
+      <webElementGuid>7a1b9d93-cf07-4ea8-91b5-6922bb56edcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komentar Terakhir'])[1]/following::button[1]</value>
+      <webElementGuid>896f1321-86dc-4c17-9565-8c8255e559e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LNMA0035'])[1]/preceding::button[1]</value>
+      <webElementGuid>98586e39-8f2c-416b-b0f7-7cb394238234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>34f89a34-b1ae-492a-b456-afb53d15d287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Loading...' or . = 'Loading...')]</value>
+      <webElementGuid>e6c01cb9-cf60-4b71-b2f8-0285264e70a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

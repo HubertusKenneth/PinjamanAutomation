@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenambahanArgunanSuratBerharga</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1d9b9d1-568c-47b5-b170-a80dd47a1b71</testCaseGuid>
+</TestCaseEntity>
