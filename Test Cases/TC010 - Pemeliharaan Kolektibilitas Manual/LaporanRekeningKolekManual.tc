@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanRekeningKolekManual</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>385ecb71-d186-4fa1-9341-d0de473ff5f0</testCaseGuid>
+</TestCaseEntity>

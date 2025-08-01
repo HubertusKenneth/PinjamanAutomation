@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanNominatifPinjamanHapusBuku</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>accd0396-6592-4060-9a7b-692c13b563ee</testCaseGuid>
+</TestCaseEntity>

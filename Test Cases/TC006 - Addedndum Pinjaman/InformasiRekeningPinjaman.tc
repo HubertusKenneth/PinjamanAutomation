@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InformasiRekeningPinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>317a7c9f-fe4b-47e9-beaa-a537447017da</testCaseGuid>
+</TestCaseEntity>

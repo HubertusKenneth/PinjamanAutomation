@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 - KLAIM ASURANSI KREDIT</name>
+   <tag></tag>
+   <elementGuidId>bffc360a-baa5-424b-b407-876645752db9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:e:b']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;2 - KLAIM ASURANSI KREDIT&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a79f76e-aceb-4467-98ca-16e2871dd741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.List-CAPTION:e:b</value>
+      <webElementGuid>30a8658c-719d-4738-9f77-703b6f3d6ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-list-caption     xui-custom</value>
+      <webElementGuid>f7e4c03e-cdf4-42b5-b7c4-e4759317c217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 - KLAIM ASURANSI KREDIT</value>
+      <webElementGuid>15c7498c-4c99-41bd-815f-35c55ee9cd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:e:b&quot;)</value>
+      <webElementGuid>d22305fa-5eea-4dc2-868b-5b7325d32cf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:e:b']</value>
+      <webElementGuid>2ee4a52e-a37e-41ea-af81-ecec1bbb5c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-ITEM:e:b']/span[4]</value>
+      <webElementGuid>d1b2ae09-d865-4348-b49b-cdf66e0d6226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Favorite'])[1]/following::span[16]</value>
+      <webElementGuid>836c54a7-fedc-44bf-9097-f6cc4aa0606d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/preceding::span[15]</value>
+      <webElementGuid>aabe0992-4566-48ff-81b3-1632ae297f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 - KLAIM ASURANSI KREDIT']/parent::*</value>
+      <webElementGuid>f59e5990-4d4b-4213-a5e1-17446a0dfc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span[2]/span[4]</value>
+      <webElementGuid>0321b671-0a40-41c9-907e-4a6a17e85726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.List-CAPTION:e:b' and (text() = '2 - KLAIM ASURANSI KREDIT' or . = '2 - KLAIM ASURANSI KREDIT')]</value>
+      <webElementGuid>a81f0276-4082-40f1-ad8a-73371da92950</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PemeliharaanRekeningStopKewajiban</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60a546aa-f928-4981-81f6-cfbbe78cc869</testCaseGuid>
+</TestCaseEntity>

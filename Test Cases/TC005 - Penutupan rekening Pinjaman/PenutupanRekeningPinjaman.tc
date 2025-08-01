@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenutupanRekeningPinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d57e2340-36ff-4fcb-92d1-cb3af6a5ce0f</testCaseGuid>
+</TestCaseEntity>

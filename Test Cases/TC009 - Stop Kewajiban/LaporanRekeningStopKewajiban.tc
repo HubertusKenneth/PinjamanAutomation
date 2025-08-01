@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanRekeningStopKewajiban</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37759bfe-91a1-4f57-be61-5f84db745ee6</testCaseGuid>
+</TestCaseEntity>

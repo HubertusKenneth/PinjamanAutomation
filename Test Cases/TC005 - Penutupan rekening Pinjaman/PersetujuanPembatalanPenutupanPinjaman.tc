@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersetujuanPembatalanPenutupanPinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a86446c-561d-4c0e-a758-a752c82fde92</testCaseGuid>
+</TestCaseEntity>

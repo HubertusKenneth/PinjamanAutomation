@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembatalanPenutupanPinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a819d60-3549-4207-9beb-09ed8ab6f73d</testCaseGuid>
+</TestCaseEntity>
