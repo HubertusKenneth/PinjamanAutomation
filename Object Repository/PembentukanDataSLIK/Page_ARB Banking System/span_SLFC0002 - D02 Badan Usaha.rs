@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SLFC0002 - D02 Badan Usaha</name>
+   <tag></tag>
+   <elementGuidId>f14dc1c8-ebb5-4059-bef3-f34b3bd697de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:f:d']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SLFC0002 - D02 Badan Usaha&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7aebd35d-4d5d-4696-9432-ab529cfe425b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.List-CAPTION:f:d</value>
+      <webElementGuid>a75a452f-c5a8-4c0b-b96a-6c43e050a095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-list-caption     xui-custom</value>
+      <webElementGuid>b325f8e8-54eb-4a3a-bd6d-89e4b0ebed6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SLFC0002 - D02 Badan Usaha</value>
+      <webElementGuid>f52ca627-9232-44e3-ab2a-e341da68e0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:f:d&quot;)</value>
+      <webElementGuid>c6f42fca-46be-4c1d-a493-f5ddf42aff07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:f:d']</value>
+      <webElementGuid>45cdffb5-676b-425b-b6f3-f90cfc04aebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-ITEM:f:d']/span[4]</value>
+      <webElementGuid>60b2b652-451d-4a99-a677-00fbc6d14668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLFC0001 - D01 Perorangan'])[1]/following::span[8]</value>
+      <webElementGuid>ea12b886-75a9-4f55-9f69-700beaa33c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLFC0003 - F01 Kredit'])[1]/following::span[16]</value>
+      <webElementGuid>b1e561dc-c595-4427-86c3-dea7c7c995ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLFC0004 - A01 Agunan'])[1]/preceding::span[7]</value>
+      <webElementGuid>88a370b6-fa3b-4e6f-9899-11f9d7d16a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLFC0005 - M01 Pengurus Pemilik'])[1]/preceding::span[15]</value>
+      <webElementGuid>aad9c538-eadc-4456-be2d-cf70ad5461ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SLFC0002 - D02 Badan Usaha']/parent::*</value>
+      <webElementGuid>2beb9c8f-17d3-4432-be97-9e5cec5e5af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/span[4]/span[4]</value>
+      <webElementGuid>1e6287c9-5d0d-46c3-9120-5952896f7d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.List-CAPTION:f:d' and (text() = 'SLFC0002 - D02 Badan Usaha' or . = 'SLFC0002 - D02 Badan Usaha')]</value>
+      <webElementGuid>d651f5be-3eb7-43a1-9c0d-ebc5361055e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

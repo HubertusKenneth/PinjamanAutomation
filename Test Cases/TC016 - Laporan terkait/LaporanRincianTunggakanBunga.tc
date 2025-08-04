@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanRincianTunggakanBunga</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae8b5f81-ecf4-4a87-9bef-e2dcc7f03d39</testCaseGuid>
+</TestCaseEntity>

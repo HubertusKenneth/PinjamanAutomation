@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanDebiturTerbesar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3944b7cd-a4bd-48f5-803b-22b203731ac3</testCaseGuid>
+</TestCaseEntity>

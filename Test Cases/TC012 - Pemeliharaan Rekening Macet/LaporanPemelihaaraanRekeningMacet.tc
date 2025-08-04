@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanPemelihaaraanRekeningMacet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>821c973e-cd90-4c0f-8fe1-0279b764c030</testCaseGuid>
+</TestCaseEntity>

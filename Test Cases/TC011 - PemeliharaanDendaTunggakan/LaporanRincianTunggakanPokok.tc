@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanRincianTunggakanPokok</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9085414-8e29-4a23-a25f-eedce40e6d5b</testCaseGuid>
+</TestCaseEntity>
